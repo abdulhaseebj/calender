@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.h1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin: 0 auto;
+}
+.feroze{
+    color: #337b5e;
+}
+img{
+    display: block;
+    margin: 40px auto;
+    width: 700px;
+    height: 80px;
+}
+table{
+    margin: 10px auto;
+    font-family: 'Roboto', sans-serif;
+    border: 2px solid black;
+}
+td{
+    border-left: 2px solid black;
+    text-align: center;
+    padding: 10px;
+
+}
+th{
+    padding: 10px;
+    text-align: center;
+    background-color:#f9faf4;
+}
+.pink{
+    color:#a9325b;
+    background-color:#f9faf4;
+}
+
